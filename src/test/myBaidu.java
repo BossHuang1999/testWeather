@@ -20,6 +20,7 @@ public class myBaidu {
     public static void main(String[] args) {
         myBaidu mb = new myBaidu();
         mb.mypos();
+        System.out.println("东西呢");
     }
 
 
